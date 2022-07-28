@@ -1,0 +1,11 @@
+.input {
+    padding-left: 10px;
+    height: 30px;
+    width: 350px;
+    border-radius: 2px;
+    border: none;
+    margin-right: 15px;
+    @media (max-width: 575px) {
+        width: 200px;
+    }
+}
